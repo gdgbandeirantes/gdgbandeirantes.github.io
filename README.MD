@@ -1,5 +1,3 @@
-[logo]: https://gdgbandeirantes.github.io/images/GDG_Bandeirantes.png "GDG Bandeirantes"
-
 # GDG Bandeirantes
 
 O Google Developer Group de Bandeirantes é uma comunidade de desenvolvedores em tecnologia Google  independente e formada por voluntários.
