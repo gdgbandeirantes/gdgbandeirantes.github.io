@@ -1,4 +1,4 @@
-[logo]: images/GDG_Bandeirantes.png "GDG Bandeirantes"
+[logo]: https://gdgbandeirantes.github.io/images/GDG_Bandeirantes.png "GDG Bandeirantes"
 
 # GDG Bandeirantes
 
